@@ -1,0 +1,11 @@
+category,emissions_kt_2023,emissions_kt_2022,emissions_kt_2021
+Cat 1: Purchased Goods & Services,980,1100,1250
+Cat 2: Capital Goods,420,580,540
+Cat 3: Fuel & Energy (not in Sc1/2),145,170,160
+Cat 4: Upstream Transportation,87,95,110
+Cat 5: Waste in Operations,32,38,40
+Cat 6: Business Travel,98,72,45
+Cat 7: Employee Commuting,215,230,240
+Cat 11: Use of Sold Products (Cloud),430,510,830
+Cat 12: End-of-Life Treatment,68,78,82
+Other Scope 3,156,227,543

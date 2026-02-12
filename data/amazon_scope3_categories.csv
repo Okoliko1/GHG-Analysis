@@ -1,0 +1,11 @@
+category,emissions_kt_2023,emissions_kt_2022,emissions_kt_2021
+Cat 1: Purchased Goods & Services,12300,13200,11800
+Cat 2: Capital Goods (Construction),6400,9100,10200
+Cat 3: Fuel & Energy (not in Sc1/2),2100,2350,1950
+Cat 4: Upstream Transportation & Distribution,9800,10900,9500
+Cat 5: Waste in Operations,850,920,780
+Cat 6: Business Travel,185,110,85
+Cat 7: Employee Commuting,1200,1250,1100
+Cat 9: Downstream Transport (3PL),10500,11500,8900
+Cat 11: Customer Use of AWS/Devices,5800,6100,5200
+Other Scope 3,2735,370,985
