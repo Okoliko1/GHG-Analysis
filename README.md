@@ -1,11 +1,27 @@
 # Corporate GHG Accounting & Emissions Intensity Analysis
 
-This repository contains an analysis of Greenhouse Gas (GHG) emissions for companies like Google and Amazon, based on their sustainability reports (2019-2023). It includes data processing, visualizations, trend analysis, and interactive charts.
+This project presents a structured greenhouse gas (GHG) accounting analysis aligned with the GHG Protocol Corporate Accounting and Reporting Standard. The objective is to demonstrate emissions calculation, scope categorization, and intensity analysis using publicly available sustainability data of Google and Amazon.
+
+The analysis covers reported emissions data from 2019–2023 and includes calculation logic, emissions intensity metrics, and documentation of assumptions..
 
 ## Overview
 - **Objectives**: Load multi-year GHG data, calculate emissions factors, visualize scopes, trends, and more.
-- **Tools Used**: Python (Pandas, Matplotlib/Seaborn, etc.) in Google Colab.
+- **Tools Used**: Python (Pandas, Matplotlib/Seaborn, Numpy) in Google Colab.
 - **Key Sections**: Setup, Emission Factors, Corporate Data, Visualizations, Trend Analysis, Interactive Elements, Summary Stats.
+
+## Purpose
+
+This project was developed to:
+
+- Apply GHG Protocol principles to multi-year emissions data
+
+- Structure Scope 1, Scope 2, and Scope 3 calculations
+
+- Document emission factors and data assumptions
+
+- Perform emissions trend and intensity analysis
+
+- Demonstrate transparent and reproducible accounting workflows
 
 ## How to Run Interactively
 Click the badge below to open in Google Colab for full interactivity (e.g., hover over charts, zoom, etc.):
